@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on a **Vampire Surivor-Like mobile game!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
