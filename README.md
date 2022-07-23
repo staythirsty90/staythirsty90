@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">A passionate software engineer from New York</h3>
+<h3 align="center">A passionate software engineer and game developer from New York</h3>
 
 - 🔭 I’m currently working on a **Vampire Surivor-Like mobile game!**
 
